@@ -95,5 +95,5 @@ Fulfill any (or all) of the following restrictions for bonus points:
 
 # Technologies and Solution
 
-Use a programming language and environment of your choice. For simplicity you can create an application that takes input and prints the output in the console.
+Use a programming language and environment of your choice. For simplicity you can create an application that takes input from the console and prints the output in the console.
 Send us a link to a github repository with the solution.
