@@ -83,11 +83,13 @@ example, this would be:
 
 --------------------
 
+# Unit Tests
+Write one or more unit tests verifying your solution.
+
 # Bonus points
 
 Fulfill any (or all) of the following restrictions for bonus points:
 
-- Write unit tests.
 - Your code must work for canvases up to 10,000,000 x 10,000,000 in size.
 - Your code must work for up to 10,000 input sheets.
 - Your code must run in a maximum of 3 seconds.
