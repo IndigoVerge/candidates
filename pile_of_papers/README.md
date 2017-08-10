@@ -86,15 +86,6 @@ example, this would be:
 # Unit Tests
 Write one or more unit tests verifying your solution.
 
-# Bonus points
-
-Fulfill any (or all) of the following restrictions for bonus points:
-
-- Your code must work for canvases up to 10,000,000 x 10,000,000 in size.
-- Your code must work for up to 10,000 input sheets.
-- Your code must run in a maximum of 3 seconds.
-- Your code may not use over 100 MB of memory.
-
 # Technologies and Solution
 
 Use a programming language and environment of your choice. For simplicity you can create an application that takes input from the console and prints the output in the console.
