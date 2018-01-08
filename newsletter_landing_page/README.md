@@ -5,7 +5,7 @@
 # Изисквания
  1. Страничката да се имплементира със HTML и CSS
  2. Да не се използват inline CSS styles, а CSS класове
- 3. Да се изплзва фонт [Montserrat](https://fonts.google.com/specimen/Montserrat)
+ 3. Да се изпoлзва фонт [Montserrat](https://fonts.google.com/specimen/Montserrat)
  4. Формичката да се интегрира посредством [Mailchimp](https://mailchimp.com/) - въведените и-мейли трябва да се запават в Mailchimp и да са на разположение за предстоящи и-мейл кампании
  5. Кодът на страничката да се качи в [Github](https://github.com)
 
