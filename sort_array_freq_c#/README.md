@@ -6,7 +6,7 @@ Sort elements of an array by their frequency. Given an array of N integers, that
 
 2. Numbers with the same frequency are sorted in decreasing order.
 
-3. Build in **Sort** method should be used only.
+3. Build in **Sort** method should be used.
 
 ## Sample Input 1
 
